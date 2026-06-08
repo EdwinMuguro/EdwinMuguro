@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**EdwinMuguro/EdwinMuguro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Edwin Muguro]
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently a working professional currently exploring the world of programming and software development.
+- I'm interested in Data analysis,business systems,web development,data science.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+- Git and GitHub
+- Python
+- SQL
+- HTML/CSS
+- Machine Learning
+
+Current Projects
+- 
+
+
+## How to Reach Me
+- Email: edwinmuguro3@gmail.com
