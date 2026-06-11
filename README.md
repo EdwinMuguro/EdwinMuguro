@@ -1,5 +1,5 @@
 
-# Hi, I'm [Edwin Muguro]
+# Hi, I'm Edwin Muguro.
 
 ## About Me
 - I'm a working professional currently exploring the world of programming and software development.
