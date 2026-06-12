@@ -15,7 +15,7 @@
 
 # Exercise 2
 
-I have *enrolled* in programming classes to build real-world problem solving skills.
+I have *enrolled* in **programming** classes to build `real-world` problem solving skills.
 
 ---
 
